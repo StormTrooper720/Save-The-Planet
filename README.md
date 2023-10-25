@@ -14,4 +14,7 @@ There are some bugs in the game, notibly visual ones with the gun.
 This game was originally made in CodeHS, so extra code I added (from a CodeHS tutorial) allows it to be played without CodeHS. This most likely wont be updated. (Maybe a recode in java for my AP Computer Science class might happen)
 
 
+Play here:
+(https://stormtrooper720.github.io/Save-The-Planet)
+
 Enjoy!
